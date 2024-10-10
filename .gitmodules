@@ -1,0 +1,3 @@
+[submodule "kmisc"]
+	path = kmisc
+	url = git@github.com:Kickoman/kmisc.git
